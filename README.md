@@ -1,7 +1,7 @@
 # blogen
 Blogen Bootstrap Template
 <hr>
-<img src="screen/1.jpg" width="100%">
+<img src="screen/1.png" width="100%">
 <hr>
 <img src="screen/2.png" width="100%">
 <hr>
@@ -11,7 +11,7 @@ Blogen Bootstrap Template
 <hr>
 <img src="screen/5.png" width="100%">
 <hr>
-<img src="screen/6.jpg" width="100%">
+<img src="screen/6.png" width="100%">
 <hr>
 <img src="screen/7.png" width="100%">
 <hr>
